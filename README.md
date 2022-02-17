@@ -16,3 +16,4 @@ _Note: This repository contains slides and code samples for the lectures I am te
 <img src="https://raw.githubusercontent.com/previtus/cci_AI_for_the_Media_2022/main/week06_domain-to-domain/w06_slide.gif" width="760">
 </p>
 
+Practical session starter notebook: [pix2pix training with custom datasets](https://github.com/previtus/cci_AI_for_the_Media_2022/blob/main/week06_domain-to-domain/w06_pix2pix_keras_student_starter_code.ipynb)
