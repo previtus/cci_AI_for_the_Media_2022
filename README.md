@@ -17,3 +17,11 @@ _Note: This repository contains slides and code samples for the lectures I am te
 </p>
 
 Practical session starter notebook: [pix2pix training with custom datasets](https://github.com/previtus/cci_AI_for_the_Media_2022/blob/main/week06_domain-to-domain/w06_pix2pix_keras_student_starter_code.ipynb)
+
+#### Week 7 (25.2.2022) - Week 7.2 CycleGANs and SuperResolution - [slides pdf](https://github.com/previtus/cci_AI_for_the_Media_2022/blob/main/week07_cyclegan-superresolution/w07_cyclegan-and-superresolution.pdf)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/previtus/cci_AI_for_the_Media_2022/main/week07_cyclegan-superresolution/w07_slide.gif" width="760">
+</p>
+
+
