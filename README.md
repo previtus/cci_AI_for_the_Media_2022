@@ -24,4 +24,5 @@ Practical session starter notebook: [pix2pix training with custom datasets](http
 <img src="https://raw.githubusercontent.com/previtus/cci_AI_for_the_Media_2022/main/week07_cyclegan-superresolution/w07_slide.gif" width="760">
 </p>
 
+Practical session starter notebook: [CycleGAN inference](https://github.com/previtus/cci_AI_for_the_Media_2022/blob/main/week07_cyclegan-superresolution/w07_cycleGAN_inference.ipynb)
 
