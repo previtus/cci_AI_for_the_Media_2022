@@ -32,18 +32,19 @@ Example video: [here](https://youtu.be/0sThk16bPuk) using CycleGAN winter2summer
 
 #### Week 8 (4.3.2022) - Language-vision models and bias - [slides pdf](https://github.com/previtus/cci_AI_for_the_Media_2022/blob/main/week08_text-to-image_and_bias/w08_text-to-image_and_bias.pdf)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/previtus/cci_AI_for_the_Media_2022/main/week08_text-to-image_and_bias/w08_slide_part1.gif" width="760">
-</p>
-
-**Part 1 video**: [Language-vision models and bias, part 1 - CLIP](https://youtu.be/HSohWwdv_N0) 
-
+**Part 1 video**: [Language-vision models and bias, part 1 - CLIP](https://youtu.be/HSohWwdv_N0)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/previtus/cci_AI_for_the_Media_2022/main/week08_text-to-image_and_bias/w08_slide_part2.gif" width="760">
+<a href="https://youtu.be/HSohWwdv_N0"><img src="https://raw.githubusercontent.com/previtus/cci_AI_for_the_Media_2022/main/week08_text-to-image_and_bias/w08_slide_part1.gif" width="760"></a>
 </p>
 
-**Part 2 video**: [Language-vision models and bias, part 2 - Bias](https://youtu.be/8Vm3FEmHBXQ) 
+
+**Part 2 video**: [Language-vision models and bias, part 2 - Bias](https://youtu.be/8Vm3FEmHBXQ)
+
+<p align="center">
+<a href="https://youtu.be/8Vm3FEmHBXQ"><img src="https://raw.githubusercontent.com/previtus/cci_AI_for_the_Media_2022/main/week08_text-to-image_and_bias/w08_slide_part2.gif" width="760"></a>
+</p>
+
 
 
 Practical session: [DiscoDiffusion v5 notebook](https://github.com/previtus/cci_AI_for_the_Media_2022/blob/main/week08_text-to-image_and_bias/w08_Disco_Diffusion_v5_%5Bw_3D_animation%5D.ipynb)
