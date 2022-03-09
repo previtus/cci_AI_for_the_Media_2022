@@ -55,4 +55,4 @@ Practical session: [DiscoDiffusion v5 notebook](https://github.com/previtus/cci_
 <img src="https://raw.githubusercontent.com/previtus/cci_AI_for_the_Media_2022/main/week09_deepfakes/w09_slide.gif" width="760">
 </p>
 
-Practical session starter notebook: [CycleGAN inference](https://github.com/previtus/cci_AI_for_the_Media_2022/blob/main/week09_deepfakes/w09_DeepNostalgieRecreation_with_first_order_model_(2019).ipynb)
+Practical session starter notebook: [Deep Nostalgia recreation with First Order model](https://github.com/previtus/cci_AI_for_the_Media_2022/blob/main/week09_deepfakes/w09_DeepNostalgieRecreation_with_first_order_model_(2019).ipynb)
